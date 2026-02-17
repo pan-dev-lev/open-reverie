@@ -218,7 +218,8 @@ This is early. I don't have a polished product or a big team. I have a vision, t
 
 If this resonates, let's build it together.
 
-**[Discord]** [GitHub] **[Contact - to be added]**
+**[Join Discord](https://discord.gg/yH6s4UK6)** • [GitHub](https://github.com/pan-dev-lev/open-reverie) • [Email](mailto:pan-dev-lev@proton.me) • [Interest Form](https://forms.gle/qB3wgE53zbwEfisNA)
+
 
 ---
 
