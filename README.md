@@ -233,4 +233,4 @@ This is the future of fantasy exploration. Let's build it.
 
 ---
 
-**Built by Pan and contributors**
+**Built by [Pan](https://github.com/pan-dev-lev) and contributors**
